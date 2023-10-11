@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/NumberDisplay.png</file>
+        <file>QML/NumberDisplayMinimized.qml</file>
+        <file>Icons/LogarithmBase2.png</file>
+        <file>Icons/NumberInput.png</file>
+        <file>QML/LogarithmBase2Minimized.qml</file>
+        <file>QML/NumberInputMinimized.qml</file>
+        <file>QML/TileLogarithmBase2Idea.qml</file>
+        <file>QML/QMLTemplates/LogarithmTemplate.qml</file>
+        <file>QML/QMLTemplates/OneToOneTemplate.qml</file>
+        <file>QML/LogarithmHelperFunctions.js</file>
+        <file>QML/LogarithmBox.qml</file>
+        <file>QML/LogarithmDisplayBox.qml</file>
+        <file>QML/LogarithmFractionBox.qml</file>
+        <file>Images/DownArrows.png</file>
+        <file>DemoFiles/InitialFile.mutt</file>
+        <file>SoundEffects/shortPop.wav</file>
+        <file>Icons/PowerOfTwo.png</file>
+        <file>QML/PowerOfTwoMinimized.qml</file>
+        <file>QML/TilePowerOfTwoIdea.qml</file>
+        <file>QML/QMLTemplates/PowerOfTemplate.qml</file>
+        <file>QML/PowerHelperFunctions.js</file>
+        <file>QML/PowerBox.qml</file>
+        <file>QML/PowerDisplayBox.qml</file>
+        <file>Images/UpArrows.png</file>
+    </qresource>
+</RCC>
